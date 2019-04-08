@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -19,33 +19,72 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "AT&T"
+  organization_url = "http://www.research.att.com"
+  title = "Making a Difference Team Award"
+  #url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2017-11-30"
+  date_end = ""
+  description = "Twice same year"
+
+[[item]]
+  organization = "Coordination for the Improvement of Higher Education Personnel"
+  organization_url = "http://www.capes.gov.br"
+  title = "Second Best Thesis in Computer Science in Brazil"
+  #url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2016-07-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Institute of Computing - University of Campinas"
+  organization_url = "http://www.ic.unicamp.br"
+  title = "Best Thesis in Computer Science"
+  #url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2016-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  description = "Summa cum laude"
+
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  organization = "New Jersey Chapter of INFORMS Student Operations Research"
+  organization_url = "https://www.informs.org/Recognizing-Excellence/Community-Prizes/New-Jersey-Chapter"
+  title = "Runner up of New Jersey Chapter of INFORMS Student Operations Research Contest"
+  #url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2013-01-01"
+  date_end = ""
   description = ""
 
+[[item]]
+  organization = "Facebook Inc."
+  organization_url = "http://www.facebook.com"
+  title = "1st place São Paulo Brazil Hackathon "
+  #url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2012-06-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Federal Institute for Education, Science and Technology Southern of Minas Gerais"
+  organization_url = "https://portal.ifs.ifsuldeminas.edu.br"
+  title = "Honored professor 2008, 2009, 2010"
+  #url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2008-12-15"
+  date_end = "2010-06-30"
+  description = ""
+
+[[item]]
+  organization = "Federal University of Lavras"
+  organization_url = "http://www.ufla.br"
+  title = "Summa cum laude"
+  #url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2004-07-30"
+  date_end = ""
+  description = ""
 +++

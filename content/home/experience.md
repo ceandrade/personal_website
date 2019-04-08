@@ -18,27 +18,53 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Senior Inventive Scientist"
+  company = "AT&T Labs Research"
+  company_url = "http://www.research.att.com"
+  location = "New Jersey, USA"
+  date_start = "2015-08-31"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+  * Analysing and modelling large optimization problems
+  * Implementing high-level Mixed Integer Programming models and custom heuristics
+  * Automating operations procedures for Software-defined Networks (including SD-RAN)
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Postdoctoral research"
+  company = "H. Milton Stewart School of Industrial & Systems Engineering, Georgia Institute of Technology"
+  company_url = "https://www.isye.gatech.edu"
+  location = "Georgia, USA"
+  date_start = "2015-02-01"
+  date_end = "2015-08-30"
+  description = """
+  Working on High performance computing for mixed-integer programming.
+  Funding: Exxon-Mobil Research and Engineering.
+  """
 
+[[experience]]
+  title = "Intern - Ph.D. candidate"
+  company = "AT&T Labs Research"
+  company_url = "http://www.research.att.com"
+  location = "Florham Park, New Jersey, USA"
+  date_start = "2012-11-01"
+  date_end = "2014-05-30"
+  description = "Working on projects related to network design and optimization."
+
+
+[[experience]]
+  title = "Professor"
+   company = "Federal Institute for Education, Science and Technology Southern of Minas Gerais"
+  company_url = "https://portal.ifs.ifsuldeminas.edu.br"
+  location = "Campus Inconfidentes, MG, Brazil."
+  date_start = "2006-12-01"
+  date_end = "2010-02-28"
+  description = """
+  Teaching Algorithms and Programming, Operating Systems, Structured
+  Programming,and Web Programming in technological courses. Vice-chief of IT
+  Department. Participating in committee for selection of students, intern issues
+  committees,and others.
+  """
 +++
