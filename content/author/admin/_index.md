@@ -67,11 +67,6 @@ interests = [
   link = "https://scholar.google.com/citations?user=OoEgsN0AAAAJ"
 
 [[social]]
-  icon = "lattes"
-  icon_pack = "ai"
-  link = "http://lattes.cnpq.br/0384028701061631"
-
-[[social]]
   icon = "orcid"
   icon_pack = "ai"
   link = "https://orcid.org/0000-0002-8362-6177"
@@ -82,9 +77,20 @@ interests = [
   link = "http://www.researcherid.com/rid/I-5644-2014"
 
 [[social]]
+  icon = "lattes"
+  icon_pack = "ai"
+  link = "http://lattes.cnpq.br/0384028701061631"
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/carloseduardoandrade"
+
+[[social]]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/ceandrade"
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -93,10 +99,10 @@ interests = [
   icon_pack = "ai"
   link = "files/resume.pdf"
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+# [[social]]
+#   icon = "envelope"
+#   icon_pack = "fas"
+#   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 +++
 
 Carlos Eduardo de Andrade is Senior Inventive Scientist at
@@ -115,4 +121,4 @@ physical and virtual resource location and deployment
 ([facility-location-like problems](https://en.wikipedia.org/wiki/Facility_location_problem))
 used in
 [network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization),
-among others. Such problems are particularly attractive due to the large scale nature.
+among others.

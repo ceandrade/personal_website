@@ -5,14 +5,14 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 100  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Patents"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "patent"
 
   # Choose how much pages you would like to display (0 = all pages)
   count = 3
@@ -28,7 +28,6 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    #exclude_publication_type = "8"  #exclude patents.
     exclude_featured = false
 
 [design]
