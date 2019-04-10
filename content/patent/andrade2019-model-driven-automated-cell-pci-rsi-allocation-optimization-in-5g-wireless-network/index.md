@@ -2,6 +2,11 @@
 title = "Model-driven Automated Cell PCI/RSI Allocation Optimization in 5G Wireless Network"
 date = 2017-12-28
 
+office = "USPTO"
+deposit_number = "2019-0118"
+deposit_date = 2017-12-28
+# public_domain_date =
+
 authors = [
 "Carlos E. Andrade",
 "Sarat Puthenpura",
@@ -26,7 +31,7 @@ authors = [
 publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-publication = "USPTO #2019-0118"
+# publication = "USPTO #2019-0118"
 # publication_short = ""
 
 # Abstract.

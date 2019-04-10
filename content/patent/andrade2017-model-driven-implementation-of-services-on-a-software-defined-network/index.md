@@ -1,6 +1,11 @@
 +++
-title = "System & Method for Model-driven Optimization Micro-services on Cloud-like environments"
+title = "Model-Driven Implementation of Services on a Software-Defined Network"
 date = 2017-04-14
+
+office = "USPTO"
+deposit_number = "US20180302278A1"
+deposit_date = 2017-04-14
+public_domain_date = 2018-10-18
 
 authors = [
 "Carlos E. Andrade",
@@ -23,7 +28,7 @@ authors = [
 publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-publication = "USPTO #2016-1812"
+# publication = "USPTO #2016-1812"
 # publication_short = ""
 
 # Abstract.
@@ -83,7 +88,7 @@ tags = ["Level location analytics", "Big data", "Wirelles technology",
 # url_slides = ""
 # url_video = ""
 # url_poster = ""
-# url_source = ""
+url_source = "https://patents.google.com/patent/US20180302278A1"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

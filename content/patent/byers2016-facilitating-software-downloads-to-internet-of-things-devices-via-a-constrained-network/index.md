@@ -1,6 +1,11 @@
 +++
 title = "Facilitating Software Downloads To Internet Of Things Devices Via A Constrained Network"
-date = 2016-11-23
+date = 2017-03-01
+
+office = "USPTO"
+deposit_number = "US20180255175A1"
+deposit_date = 2017-03-01
+public_domain_date = 2018-09-06
 
 authors = [
 "Simon D. Byers",
@@ -25,7 +30,7 @@ authors = [
 publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-publication = "USPTO #2016-0897"
+#publication = "USPTO #2016-0897"
 # publication_short = ""
 
 # Abstract.
@@ -78,7 +83,7 @@ tags = ["Internet of things", "Big data", "Wirelles technology",
 # url_slides = ""
 # url_video = ""
 # url_poster = ""
-# url_source = ""
+url_source = "https://patents.google.com/patent/US20180255175A1"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

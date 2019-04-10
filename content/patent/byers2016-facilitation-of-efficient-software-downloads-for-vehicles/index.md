@@ -2,6 +2,11 @@
 title = "Facilitation of Efficient Software Downloads for Vehicles"
 date = 2016-06-27
 
+office = "USPTO"
+deposit_number = "US20170374668A1"
+deposit_date = 2016-06-27
+public_domain_date = 2017-12-28
+
 authors = [
 "Simon D. Byers",
 "Carlos E. Andrade",
@@ -25,7 +30,7 @@ authors = [
 publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-publication = "USPTO #2016-0273"
+# publication = "USPTO #2016-0273"
 # publication_short = ""
 
 # Abstract.
@@ -80,7 +85,7 @@ tags = ["Level location analytics", "Big data", "Wirelles technology",
 # url_slides = ""
 # url_video = ""
 # url_poster = ""
-# url_source = ""
+url_source = "https://patents.google.com/patent/US20170374668A1"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

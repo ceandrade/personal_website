@@ -2,6 +2,11 @@
 title = "A scalable approach to conflict-free change deployment in 5G/LTE/cloud networks"
 date = 2019-02-15
 
+office = "USPTO"
+deposit_number = "2018-08582"
+deposit_date = 2019-02-15
+# public_domain_date =
+
 authors = [
 "Carlos E. Andrade",
 "Ajay Mahimkar",
@@ -24,7 +29,7 @@ authors = [
 publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-publication = "USPTO #2018-0858"
+#publication = "USPTO #2018-0858"
 # publication_short = ""
 
 # Abstract.

@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Patents"
-subtitle = ""
+title = "Recent patents"
+# subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
