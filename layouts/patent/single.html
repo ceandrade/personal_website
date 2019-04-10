@@ -1,0 +1,94 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  {{ partial "page_header.html" . }}
+
+  <div class="article-container">
+    {{ if .Params.abstract }}
+    <h3>{{ i18n "abstract" }}</h3>
+    <p class="pub-abstract" itemprop="text">{{ .Params.abstract | markdownify }}</p>
+    {{ end }}
+
+    <div class="d-md-none space-below"></div>
+
+    {{ if .Params.office }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Office</div>
+          <div class="col-12 col-md-8">{{ .Params.office | markdownify }}</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    {{ if .Params.deposit_number }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Deposit number</div>
+          <div class="col-12 col-md-8">{{ .Params.deposit_number }}</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    {{ if .Params.deposit_date }}
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Deposit date</div>
+          {{ $date := .Params.deposit_date }}
+          {{ $date = dateFormat $.Site.Params.date_format $date }}
+          <div class="col-12 col-md-8"><time>{{ $date }}</time></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    {{ end }}
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-4 pub-row-heading">Publication date</div>
+          {{ $date := "To appear"}}
+          {{ if .Params.public_domain_date }}
+            {{ $date = .Params.public_domain_date }}
+            {{ $date = dateFormat $.Site.Params.date_format $date }}
+          {{ end }}
+          <div class="col-12 col-md-8"><time>{{ $date }}</time></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+
+    <div class="d-md-none space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style">{{ .Content }}</div>
+
+    {{ partial "tags.html" . }}
+    {{ partial "page_author.html" . }}
+
+  </div>
+</div>
+
+{{ if .Site.Params.section_pager }}
+<div class="article-container article-widget">
+  {{ partial "section_pager.html" . }}
+</div>
+{{ end }}
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
