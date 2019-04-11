@@ -1,10 +1,11 @@
 +++
 title = "Model-driven Automated Cell PCI/RSI Allocation Optimization in 5G Wireless Network"
-date = 2017-12-28
+date = 2019-04-08
 
 office = "USPTO"
-deposit_number = "2019-0118"
-deposit_date = 2017-12-28
+#deposit_number = "2019-0118"
+deposit_number = "Pending"
+deposit_date = 2019-04-08
 # public_domain_date =
 
 authors = [

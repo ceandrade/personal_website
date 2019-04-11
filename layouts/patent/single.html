@@ -40,28 +40,29 @@
     <div class="d-md-none space-below"></div>
     {{ end }}
 
-    {{ if .Params.deposit_date }}
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-4 pub-row-heading">Deposit date</div>
-          {{ $date := .Params.deposit_date }}
-          {{ $date = dateFormat $.Site.Params.date_format $date }}
+          {{ $date := "Pending"}}
+          {{ if .Params.deposit_date }}
+            {{ $date = .Params.deposit_date }}
+            {{ $date = dateFormat $.Site.Params.date_format $date }}
+          {{ end }}
           <div class="col-12 col-md-8"><time>{{ $date }}</time></div>
         </div>
       </div>
       <div class="col-md-1"></div>
     </div>
     <div class="d-md-none space-below"></div>
-    {{ end }}
 
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-4 pub-row-heading">Publication date</div>
-          {{ $date := "To appear"}}
+          {{ $date := "Pending"}}
           {{ if .Params.public_domain_date }}
             {{ $date = .Params.public_domain_date }}
             {{ $date = dateFormat $.Site.Params.date_format $date }}

@@ -3,7 +3,8 @@ title = "A scalable approach to conflict-free change deployment in 5G/LTE/cloud 
 date = 2019-02-15
 
 office = "USPTO"
-deposit_number = "2018-08582"
+#deposit_number = "2018-08582"
+deposit_number = "Pending"
 deposit_date = 2019-02-15
 # public_domain_date =
 

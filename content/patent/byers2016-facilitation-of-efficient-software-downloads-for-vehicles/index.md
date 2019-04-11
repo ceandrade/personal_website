@@ -1,6 +1,6 @@
 +++
 title = "Facilitation of Efficient Software Downloads for Vehicles"
-date = 2016-06-27
+date = 2017-12-28
 
 office = "USPTO"
 deposit_number = "US20170374668A1"

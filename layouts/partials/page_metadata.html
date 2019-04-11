@@ -11,7 +11,7 @@
   {{ if $.Params.authors }}
   {{ $authorLen := len $.Params.authors }}
   {{ if gt $authorLen 0 }}
-  <div>
+  <div id="pub-authors">
     {{ partial "page_metadata_authors" $ }}
   </div>
   {{ end }}
