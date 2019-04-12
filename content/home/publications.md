@@ -28,7 +28,6 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    #exclude_publication_type = "8"  #exclude patents.
     exclude_featured = false
 
 [design]
@@ -37,7 +36,8 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  #  11 = Compact pub
+  view = 11
 
 [design.background]
   # Apply a background color, gradient, or image.

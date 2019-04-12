@@ -1,6 +1,7 @@
 {{/* Pages Widget */}}
 
 {{/* Initialise */}}
+{{ .Scratch.Set "fullpage" false}}
 {{ $ := .root }}
 {{ $st := .page }}
 {{ $items_type := $st.Params.content.page_type | default "post" }}
@@ -76,14 +77,25 @@
 
     {{ with $st.Content }}<p>{{ . }}</p>{{ end }}
 
+    {{ .Scratch.Set "fullpage" false}}
     {{ range $post := $query }}
       {{ if eq $st.Params.design.view 1 }}
+        {{ .Scratch.Set "fullpage" false}}
         {{ partial "li_list" . }}
       {{ else if eq $st.Params.design.view 3 }}
+        {{ .Scratch.Set "fullpage" false}}
         {{ partial "li_card" . }}
       {{ else if eq $st.Params.design.view 4 | and (eq $items_type "publication") }}
+        {{ .Scratch.Set "fullpage" false}}
         {{ partial "li_citation" . }}
+      {{ else if eq $st.Params.design.view 10 }}
+        {{ .Scratch.Set "fullpage" false}}
+        {{ partial "li_patent" . }}
+      {{ else if eq $st.Params.design.view 11 }}
+        {{ .Scratch.Set "fullpage" true}}
+        {{ partial "li_compact_pub" . }}
       {{ else }}
+        {{ .Scratch.Set "fullpage" false}}
         {{ partial "li_compact" . }}
       {{ end }}
     {{end}}

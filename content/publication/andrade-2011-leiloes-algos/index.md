@@ -1,6 +1,7 @@
 +++
 title = "Leilões e Algoritmos"
 date = 2011-06-01
+publishdate = 2019-01-01
 authors = ["Carlos E. Andrade", "Flávio K. Miyazawa"]
 publication_types = ["4"]
 abstract = ""

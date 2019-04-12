@@ -1,3 +1,13 @@
+.pub-icon {
+  color: rgba(100, 0, 0, 0.75);
+  font-size: 1em;
+  padding-right: 6px;
+}
+
+.dark .pub-icon {
+  color: rgba(155, 255, 255, 0.75);
+}
+
 .patent-icon {
   color: rgba(100, 0, 0, 0.75);
   font-size: 1em;
@@ -17,6 +27,62 @@
 }
 
 .pub-authors {
+  color: rgba(100, 0, 0, 0.75);
   font-size: 1.5em;
   font-style: italic;
+}
+
+.dark .pub-authors {
+  color: rgba(155, 255, 255, 0.75);
+}
+
+.publication-venue {
+  color: #2962ff;
+  font-size: 1.25em;
+  font-style: italic;
+}
+
+.article-frontpage {
+  margin-bottom: 15px;
+  overflow: hidden;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+  color: rgba(100, 0, 0, 0.75);
+}
+
+.dark .article-frontpage {
+  color: rgba(155, 255, 255, 0.75);
+}
+
+.stream-meta.article-frontpage {
+  margin-bottom: 5px;
+}
+
+/* For article page only, not lists. */
+article .article-frontpage {
+  margin-bottom: 20px;
+  line-height: 30px; /* Match share bar line height. */
+}
+
+.article-frontpage a {
+  color: rgba(100, 0, 0, 0.75);
+}
+
+.dark .article-frontpage a {
+  color: rgba(155, 255, 255, 0.75);
+}
+
+.article-frontpage a:hover {
+  color: #2962ff;
+}
+
+.publication-type-separator {
+  color: #039;
+  padding: 5px 0 5px 12px;
+  border-left: 1px solid;
+  border-top: 1px solid;
+}
+
+.dark .publication-type-separator {
+  color: rgba(155, 255, 255, 0.75);
 }

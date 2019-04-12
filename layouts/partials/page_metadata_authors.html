@@ -5,21 +5,32 @@
   {{ range $k, $v := $.Params.authors -}}
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">
-        {{ $link := ($.Site.GetPage (printf "/authors/%s" $v)).RelPermalink }}
+      {{ $link := ($.Site.GetPage (printf "/authors/%s" $v)).RelPermalink }}
 
       {{ $person_page_path := (printf "/author/%s" (urlize $v)) }}
       {{ $person_page := $.Site.GetPage $person_page_path }}
 
+      {{/* $local_style := "color: rgba(100, 0, 0, 0.75);" */}}
+      {{/* if eq $v "Carlos E. Andrade" */}}
+        {{/* $local_style = "color: rgba(100, 0, 0, 0.75); font-weight: bold;" */}}
+      {{/* end */}}
+
       {{ $local_style := "" }}
-      {{ if eq $v "Carlos E. Andrade" }}
+      {{ if in (slice "Carlos E. Andrade"  "Carlos E. de Andrade" "Carlos Eduardo de Andrade") $v }}
         {{ $local_style = "font-weight: bold;" }}
+      {{end}}
+
+      {{ $local_class := "" }}
+      {{ $fullpage := $.Scratch.Get "fullpage" }}
+      {{ if eq $fullpage true }}
+        {{ $local_class = "class=\"pub-authors\"" }}
       {{end}}
 
       {{ if $person_page }}
         {{ $person := $person_page.Params }}
-        {{- printf "<a class=\"pub-authors\" style=\"%s\" href=\"%s\">%s</a>" $local_style $link $person.name | safeHTML -}}
+        {{- printf "<a %s style=\"%s\" href=\"%s\">%s</a>" $local_class $local_style $link $person.name | safeHTML -}}
       {{- else -}}
-         {{- printf "<a class=\"pub-authors\" style=\"%s\" href=\"%s\">%s</a>" $local_style $link ($v | markdownify) | safeHTML -}}
+        {{- printf "<a %s style=\"%s\" href=\"%s\">%s</a>" $local_class $local_style $link ($v | markdownify) | safeHTML -}}
       {{- end -}}
       </span>{{- /* This comment removes whitespace */ -}}
     </span>

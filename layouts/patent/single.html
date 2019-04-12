@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
-
+  {{ .Scratch.Set "fullpage" true}}
   {{ partial "page_header.html" . }}
 
   <div class="article-container">
