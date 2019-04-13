@@ -7,6 +7,5 @@ publication_types = ["4"]
 abstract = ""
 featured = false
 publication = "*Anais do VI Workshop de Teses, Dissertações e Trabalhos de Iniciação Científica em Andamento do IC-UNICAMP*"
-url_pdf = "http://www.ic.unicamp.br/~reltech/2011/11-13.pdf"
+url_pdf = "files/publications/andrade2011_leiloes.pdf"
 +++
-

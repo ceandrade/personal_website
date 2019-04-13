@@ -9,5 +9,7 @@ featured = false
 publication = ""
 tags = ["Combinatorial Optimization; Network Design; Biased Random-Key Genetic Algorithms."]
 url_pdf = "http://www.repositorio.unicamp.br/handle/REPOSIP/275653"
-+++
 
+url_thesis_award_ic = "files/awards/thesis-award-certificate-and-plate.pdf"
+url_thesis_award_capes = "files/awards/capes-award-certificate.pdf"
++++

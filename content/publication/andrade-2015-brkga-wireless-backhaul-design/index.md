@@ -9,5 +9,6 @@ featured = false
 publication = "*Applied Soft Computing*"
 tags = ["Wireless backhaul network design; Small cells; Genetic algorithm; Mixed integer programming model"]
 doi = "10.1016/j.asoc.2015.04.016"
-+++
 
+url_dataset = "https://www.loco.ic.unicamp.br/files/instances/wbndp"
++++

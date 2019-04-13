@@ -9,5 +9,6 @@ featured = false
 publication = "*Networks*"
 tags = ["Hub location-routing problem; Heuristics; Variable neighborhood descent; Biased random‐key genetic algorithm; Integer formulation"]
 doi = "10.1002/net.21685"
+url_code = "https://github.com/ceandrade/brkga_muti_depot_multi_tsp"
 +++
 

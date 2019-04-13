@@ -9,5 +9,6 @@ featured = false
 publication = "*Proceedings of the 15th Annual Conference on Genetic and Evolutionary Computation*"
 tags = ["Network Design; Routing Problems; Traveling Salesman Problem; Genetic Algorithms"]
 doi = "10.1145/2463372.2463434"
+url_code = "https://github.com/ceandrade/brkga_muti_depot_multi_tsp"
 +++
 

@@ -8,6 +8,6 @@ abstract = "Neste artigo apresentamos um algoritmo branch-and-price para o Probl
 featured = false
 publication = "*Proceedings of the 38th Brazilian Symposium of Operational Research*"
 tags = ["Cut and Packing Problem; Branch-and-Price; Column Generation."]
-url_pdf = "http://www.ic.unicamp.br/~andrade/publications/andrade2006_bnp_pebf.pdf"
+url_pdf = "files/publications/andrade2006_bnp_pebf.pdf"
 +++
 

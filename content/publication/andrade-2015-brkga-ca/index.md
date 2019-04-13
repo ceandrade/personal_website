@@ -9,5 +9,7 @@ featured = false
 publication = "*Evolutionary Computation*"
 tags = ["Combinatorial auctions; Winner determination problem; Genetic algorithms", "Biased random-key genetic algorithms"]
 doi = "10.1162/EVCO_a_00138"
+url_code = "https://github.com/ceandrade/brkga_combinatorial_auctions"
+url_dataset = "http://www.loco.ic.unicamp.br/files/instances/wdp"
 +++
 
