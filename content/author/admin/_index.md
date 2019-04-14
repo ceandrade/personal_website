@@ -16,7 +16,7 @@ role = "Senior Inventive Scientist"
 organizations = [ { name = "AT&T Labs Research", url = "http://www.research.att.com" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include applied combinatorial optimization, operations research, and amchine learning."
+bio = "My research interests include applied combinatorial optimization, operations research, and machine learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "ce.andrade@gmail.com"
@@ -91,7 +91,6 @@ interests = [
   icon_pack = "fab"
   link = "https://github.com/ceandrade"
 
-
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[social]]
@@ -105,7 +104,7 @@ interests = [
 #   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 +++
 
-Carlos Eduardo de Andrade is Senior Inventive Scientist at
+<!-- Carlos Eduardo de Andrade is Senior Inventive Scientist at
 [AT&T Labs Research](http://www.research.att.com).
 He is interested in the application of exact algorithms
 ([mixed integer based](https://en.wikipedia.org/wiki/Integer_programming))
@@ -121,4 +120,33 @@ physical and virtual resource location and deployment
 ([facility-location-like problems](https://en.wikipedia.org/wiki/Facility_location_problem))
 used in
 [network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization),
-among others.
+among others. -->
+
+Hi, my name is Carlos Eduardo de Andrade and I'm a senior Inventive Scientist
+at AT&T Labs Research. I'm interested in the application of exact
+algorithms (mixed integer based) and heuristics like genetic algorithms,
+variable neighborhood search, and others, to deal with real large-scale
+problems in network design and orchestration/operation (including
+Software-Defined Networks). Several problems emerge in this context such as
+networking planning (several Steiner-tree-like problems), physical and
+virtual resource location and deployment (facility-location-like problems)
+used in network function virtualization, among others.
+
+Currently, I'm working on the following projects:
+
+<ul class='fa-ul'>
+
+<li><i class="fa-li fas fa-chevron-right"></i>Change management deconfliction and
+scheduling for hybrid systems including physical and virtual network
+functions (PNF and VNF), radio access networks (RAN), and software-defined
+wide area networks (SD-WAN). Most of this stuff has been implemented on the
+ONAP platform;</li>
+
+<li><i class="fa-li fas fa-chevron-right"></i>PCI/RSI/ANR management for 4G
+and 5G networks, focusing on large scale densification of radio access
+networks (RANs). Several features have been implemented in ONAP;</li>
+
+<li><i class="fa-li fas fa-chevron-right"></i>The retirement of POTS (plain
+old telephone system), focusing on low costs
+for customers.</li>
+</ul>
