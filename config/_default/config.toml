@@ -21,7 +21,7 @@ content.
 """
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-139333073-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
