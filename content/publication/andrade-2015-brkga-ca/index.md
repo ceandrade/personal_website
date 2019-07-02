@@ -7,7 +7,7 @@ publication_types = ["2"]
 abstract = "In this paper we address the problem of picking a subset of bids in a general combinatorial auction so as to maximize the overall profit using the first-price model. This winner determination problem assumes that a single bidding round is held to determine both the winners and prices to be paid. We introduce six variants of biased random-key genetic algorithms for this problem. Three of them use a novel initialization technique that makes use of solutions of intermediate linear programming relaxations of an exact mixed integer linear programming model as initial chromosomes of the population. An experimental evaluation compares the effectiveness of the proposed algorithms with the standard mixed linear integer programming formulation, a specialized exact algorithm, and the best-performing heuristics proposed for this problem. The proposed algorithms are competitive and offer strong results, mainly for large-scale auctions."
 featured = false
 publication = "<a href=\"https://www.mitpressjournals.org/loi/evco\">*Evolutionary Computation*</a>"
-tags = ["Combinatorial auctions; Winner determination problem; Genetic algorithms", "Biased random-key genetic algorithms"]
+tags = ["Combinatorial auctions", "Winner determination proble", "Genetic algorithms", "Biased random-key genetic algorithms"]
 doi = "10.1162/EVCO_a_00138"
 url_code = "https://github.com/ceandrade/brkga_combinatorial_auctions"
 url_dataset = "http://www.loco.ic.unicamp.br/files/instances/wdp"

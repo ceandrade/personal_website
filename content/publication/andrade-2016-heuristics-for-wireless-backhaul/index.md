@@ -7,5 +7,6 @@ publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*INFORMS Optimization Society Conference*"
+tags = ["Wireless backhaul network design", "Small cells", "Genetic algorithm", "Mixed integer programming model"]
 +++
 

@@ -7,5 +7,6 @@ publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*INFORMS Annual Meeting*"
+tags = ["Data mining", "Correlation Clustering", "Biased Random-Key Genetic Algorithm"]
 +++
 

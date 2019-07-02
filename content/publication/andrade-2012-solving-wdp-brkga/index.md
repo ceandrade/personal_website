@@ -7,5 +7,6 @@ publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*XVI Latin American Operations Research Summer School*"
+tags = ["Combinatorial auctions", "Winner determination proble", "Genetic algorithms", "Biased random-key genetic algorithms"]
 +++
 
