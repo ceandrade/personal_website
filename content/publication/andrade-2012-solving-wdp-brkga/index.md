@@ -6,7 +6,7 @@ authors = ["Carlos E. Andrade", "Flávio K. Miyazawa", "Mauricio G. C. Resende",
 publication_types = ["1"]
 abstract = ""
 featured = false
-publication = "*XVI Latin American Operations Research Summer School*"
-tags = ["Combinatorial auctions", "Winner determination proble", "Genetic algorithms", "Biased random-key genetic algorithms"]
+publication = "XVI Latin American Operations Research Summer School*"
+tags = ["Prize-collecting Steiner problem", "Biased Random-Key Genetic Algorithm"]
 +++
 

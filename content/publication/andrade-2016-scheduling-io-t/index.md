@@ -7,6 +7,6 @@ publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*INFORMS Annual Meeting*"
-tags = ["Connected car", "LTE", "Firmware over the air"]
+tags = ["Internet of Things", "IoT", "4G/LTE", "Firmware over the air"]
 +++
 
