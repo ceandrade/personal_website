@@ -10,5 +10,6 @@ publication = "<a href=\"https://www.journals.elsevier.com/european-journal-of-o
 tags = ["Integer programming", "Primal heuristics", "Feasibility"]
 doi = "10.1016/j.ejor.2017.05.003"
 scimagojr_index = "22489"
+url_code = "https://github.com/ceandrade/brkga_mip_feasibility"
 +++
 
