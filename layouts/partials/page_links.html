@@ -51,6 +51,42 @@
   {{ i18n "btn_code" }}
 </a>
 {{ end }}
+{{ with $.Params.url_code1 }}
+  {{ $resource := $.Resources.GetMatch . }}
+  {{ if $resource }}
+    {{ $link = $resource.RelPermalink }}
+  {{ else }}
+    {{ $link = . | relURL }}
+  {{ end }}
+<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+  <i class="fab fa-github" aria-hidden="true"></i>
+  Code and tutorial - C++
+</a>
+{{ end }}
+{{ with $.Params.url_code2 }}
+  {{ $resource := $.Resources.GetMatch . }}
+  {{ if $resource }}
+    {{ $link = $resource.RelPermalink }}
+  {{ else }}
+    {{ $link = . | relURL }}
+  {{ end }}
+<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+  <i class="fab fa-github" aria-hidden="true"></i>
+  Code and tutorial - Julia
+</a>
+{{ end }}
+{{ with $.Params.url_code3 }}
+  {{ $resource := $.Resources.GetMatch . }}
+  {{ if $resource }}
+    {{ $link = $resource.RelPermalink }}
+  {{ else }}
+    {{ $link = . | relURL }}
+  {{ end }}
+<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+  <i class="fab fa-github" aria-hidden="true"></i>
+  Code and tutorial - Python
+</a>
+{{ end }}
 {{ with $.Params.url_dataset }}
   {{ $resource := $.Resources.GetMatch . }}
   {{ if $resource }}

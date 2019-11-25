@@ -5,8 +5,8 @@
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 15  # Order that this section will appear.
 
 title = "Featured Publications"
 subtitle = ""
@@ -16,7 +16,7 @@ subtitle = ""
   page_type = "publication"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 1
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -49,7 +49,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
 
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "brkga_background.png"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -57,8 +57,10 @@ subtitle = ""
 
 [advanced]
  # Custom CSS.
- css_style = ""
+ # css_style = "background-image: url('http://localhost:8000/img/brkga_background.png'); height: 100%; background-attachment: fixed; background-position: right; background-repeat: no-repeat;"
+ css_style = " height: 100%; background-attachment: fixed; background-position: right; background-repeat: no-repeat;"
 
  # CSS class.
  css_class = ""
 +++
+
