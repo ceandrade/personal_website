@@ -49,16 +49,16 @@ subtitle = ""
   # gradient_end = "SkyBlue"
 
   # Background image.
-  # image = "brkga_background.png"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image = "brkga_background.png"  # Name of image in `static/img/`.
+  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true
 
 [advanced]
  # Custom CSS.
- # css_style = "background-image: url('http://localhost:8000/img/brkga_background.png'); height: 100%; background-attachment: fixed; background-position: right; background-repeat: no-repeat;"
- css_style = " height: 100%; background-attachment: fixed; background-position: right; background-repeat: no-repeat;"
+ #css_style = "background-image: url('http://localhost:8000/img/brkga_background.png'); height: 100%; background-attachment: fixed; background-position: right; background-repeat: no-repeat;"
+ css_style = " height: 100%; background-attachment: fixed; background-position: right; background-repeat: no-repeat; background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(255, 255, 255, 0.6)), url('https://ceandrade.github.io/img/brkga_background.png');"
 
  # CSS class.
  css_class = ""
