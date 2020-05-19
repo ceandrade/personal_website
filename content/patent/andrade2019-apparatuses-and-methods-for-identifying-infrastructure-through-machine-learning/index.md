@@ -1,19 +1,21 @@
 +++
-title = "Model-Driven Implementation of Services on a Software-Defined Network"
-date = 2018-10-18
+title = "Apparatuses and methods for identifying infrastructure through machine learning"
+date = 2019-10-15
 
 office = "USPTO"
-deposit_number = "10,469,567"
-deposit_date = 2017-04-14
-public_domain_date = 2018-10-18
-grant_date = 2019-11-05
+#deposit_number = "2019-0118"
+deposit_number = "Pending"
+deposit_date = 2019-10-15
+# public_domain_date =
 
 authors = [
 "Carlos E. Andrade",
-"Rakesh K. Sinha",
-"Weiyi Zhang",
-"Sarat Puthenpura"
+"Will A. Culpepper",
+"Vijay Gopalakrishnan",
+"Sarat Puthenpura",
+"Weiyi Zhang"
 ]
+
 
 # Publication type.
 # Legend:
@@ -29,26 +31,20 @@ authors = [
 publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-# publication = "USPTO #2016-1812"
+# publication = "USPTO #2019-0118"
 # publication_short = ""
 
 # Abstract.
 abstract = """
-In traditional environments, optimization of assets, services, and other
-elements are done on a case-by-case basis. Such an approach produces very
-specialized solutions for each problem, which are hard to generalize and
-maintain. Even small changes in the problem definition may require a large
-amount of effort to modify the solution. Therefore, the cost and time of
-development and maintenance of such solutions can be very high. With the
-advent of software-defined networks (SDNs) and virtual functions (VFs),
-cloud-like environments brings a high degree of automation. Services, assets,
-and other elements in the datacenter, network, even in the client side, are
-model-driven and constraints can change on-the-fly. This agile environment
-requires model-driven solutions that are general and can be adapted in a
-flexible manner. This disclosure offers a methodology and describes a
-prototype of a framework to deal with such a model-driven approach to solving
-optimization problems. The framework is generic enough to tackle many
-different problems though automatic model creation and optimization.
+The first method to automatic identify legacy structure plants (copper wire
+lines and poles) in Plain Old Telephone Systems (POTs) (but not limited to).
+The process makes use of legacy database information, geographical
+characteristics, and cost assessment, combining machine learning procedures
+with sophisticated mathematical optimization to automatically identify
+removable infrastructure cost-efficiently. The automation in this process
+reduces the human intervention, mainly in legacy and incomplete/incorrect
+data, speeding up the assessment and optimizing the deployment of field
+technicians, aiming to save in operations costs.
 """
 
 # Summary. An optional shortened abstract.
@@ -89,8 +85,7 @@ tags = ["Level location analytics", "Big data", "Wirelles technology",
 # url_slides = ""
 # url_video = ""
 # url_poster = ""
-# url_source = "https://patents.google.com/patent/US20180302278A1"
-url_source = "http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=10469567"
+# url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

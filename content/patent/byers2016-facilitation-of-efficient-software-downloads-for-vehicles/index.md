@@ -3,9 +3,11 @@ title = "Facilitation of Efficient Software Downloads for Vehicles"
 date = 2017-12-28
 
 office = "USPTO"
-deposit_number = "US20170374668A1"
+# deposit_number = "US20170374668A1"
+deposit_number = "10,470,189"
 deposit_date = 2016-06-27
 public_domain_date = 2017-12-28
+grant_date = 2019-05-11
 
 authors = [
 "Simon D. Byers",
@@ -85,7 +87,8 @@ tags = ["Level location analytics", "Big data", "Wirelles technology",
 # url_slides = ""
 # url_video = ""
 # url_poster = ""
-url_source = "https://patents.google.com/patent/US20170374668A1"
+# url_source = "https://patents.google.com/patent/US20170374668A1"
+url_source = "http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=10470189"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

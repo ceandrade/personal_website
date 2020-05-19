@@ -3,9 +3,10 @@ title = "Facilitating Software Downloads To Internet Of Things Devices Via A Con
 date = 2018-09-06
 
 office = "USPTO"
-deposit_number = "US20180255175A1"
+deposit_number = "10,362,166"
 deposit_date = 2017-03-01
 public_domain_date = 2018-09-06
+grant_date = 2019-07-23
 
 authors = [
 "Simon D. Byers",
@@ -83,7 +84,8 @@ tags = ["Internet of things", "Big data", "Wirelles technology",
 # url_slides = ""
 # url_video = ""
 # url_poster = ""
-url_source = "https://patents.google.com/patent/US20180255175A1"
+# url_source = "https://patents.google.com/patent/US20180255175A1"
+url_source = "http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=10362166"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

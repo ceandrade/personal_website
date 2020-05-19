@@ -9,10 +9,14 @@
     {{ .Params.office | markdownify }}
     {{ .Params.deposit_number }}.
     </span>
-  {{ if .Params.public_domain_date }}
-  Publication: {{ dateFormat $.Site.Params.date_format .Params.public_domain_date }}
+  {{ if .Params.grant_date }}
+    Granted: {{ dateFormat $.Site.Params.date_format .Params.grant_date }}
   {{else}}
-  Deposit: {{ dateFormat $.Site.Params.date_format .Params.deposit_date }}
+    {{ if .Params.public_domain_date }}
+      Publication: {{ dateFormat $.Site.Params.date_format .Params.public_domain_date }}
+    {{else}}
+      Deposit: {{ dateFormat $.Site.Params.date_format .Params.deposit_date }}
+    {{end}}
   {{end}}
   {{ partial "page_links" (dict "content" . "is_list" 1) }}
   </p>
