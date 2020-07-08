@@ -65,7 +65,7 @@ address = "5312 SW 6TH PL, OCALA, FL 34474, USA"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ce_andrade"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:an_drade?call"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:an_drade?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},

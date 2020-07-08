@@ -8,6 +8,6 @@ abstract = "In this paper, we propose two new variants of the Biased Random-Key 
 featured = false
 publication = "*Proceedings of the 46th Brazilian Symposium of Operational Research*"
 tags = ["Genetic Algorithms", "Crossover", "Combinatorial optimization"]
-url_pdf = "files/publications/lucena2015_extensions_of_brkga.pdf"
+url_pdf = "files/publications/lucena2014_extensions_of_brkga.pdf"
 +++
 

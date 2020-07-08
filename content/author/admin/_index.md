@@ -123,30 +123,50 @@ used in
 among others. -->
 
 Hi, my name is Carlos Eduardo de Andrade and I'm a senior Inventive Scientist
-at AT&T Labs Research. I'm interested in the application of exact
-algorithms (mixed integer based) and heuristics like genetic algorithms,
-variable neighborhood search, and others, to deal with real large-scale
-problems in network design and orchestration/operation (including
-Software-Defined Networks). Several problems emerge in this context such as
-networking planning (several Steiner-tree-like problems), physical and
-virtual resource location and deployment (facility-location-like problems)
-used in network function virtualization, among others.
+at AT&T Labs Research. I'm interested in the application of exact algorithms
+(mixed integer based) and heuristics like genetic algorithms, variable
+neighborhood search, and others, to deal with real large-scale problems.
+Currently, I am working in network design and orchestration/operation
+(including Software-Defined Networks). Several problems emerge in this context
+such as networking planning (several Steiner-tree-like problems), physical and
+virtual resource location and deployment (facility-location-like problems) used
+in network function virtualization, among others.
 
 Currently, I'm working on the following projects:
 
 <ul class='fa-ul'>
+<li><i class="fa-li fas fa-chevron-right" style="color: steelblue;"></i>
+Change management deconfliction and scheduling for hybrid systems including
+physical and virtual network functions (PNF and VNF), radio access networks
+(RAN), and software-defined wide area networks (SD-WAN). Most of this stuff
+has been implemented on the ONAP platform;
+</li>
 
-<li><i class="fa-li fas fa-chevron-right"></i>Change management deconfliction and
-scheduling for hybrid systems including physical and virtual network
-functions (PNF and VNF), radio access networks (RAN), and software-defined
-wide area networks (SD-WAN). Most of this stuff has been implemented on the
-ONAP platform;</li>
+<li><i class="fa-li fas fa-chevron-right" style="color: steelblue;"></i> 
+ENDC (E-UTRAN New Radio Dual Connectivity) optimization, where we want to
+maximize the performance of hybrid 4G/5G networks, using machine learning for
+issue prediction, and configuration and parameter optimization; 
+</li>
 
-<li><i class="fa-li fas fa-chevron-right"></i>PCI/RSI/ANR management for 4G
-and 5G networks, focusing on large scale densification of radio access
-networks (RANs). Several features have been implemented in ONAP;</li>
-
-<li><i class="fa-li fas fa-chevron-right"></i>The retirement of POTS (plain
-old telephone system), focusing on low costs
-for customers.</li>
+<li><i class="fa-li fas fa-chevron-right" style="color: steelblue;"></i>
+PCI/RSI/ANR management for 4G and 5G networks, focusing on large scale 
+densification of radio access networks (RANs). Several features have been
+implemented in ONAP.
+</li>
 </ul>
+
+Some past projects include:
+
+<ul class='fa-ul'>
+<li><i class="fa-li fas fa-chevron-left" style="color: steelblue;"></i>
+The retirement of POTS (plain old telephone system), focusing on low costs
+for customers;
+</li>
+
+<li><i class="fa-li fas fa-chevron-left" style="color: steelblue;"></i> 
+Delivery of Firmware-Over-The-Air for connected cars, where we want to
+guarantee the best network performance for such updates.
+</li>
+
+</ul>
+

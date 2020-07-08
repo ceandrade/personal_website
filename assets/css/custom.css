@@ -37,10 +37,16 @@
 }
 
 .publication-venue {
-  color: #2962ff;
+  /*color: #2962ff;*/
+  color: steelblue;
   font-size: 1.25em;
   font-style: italic;
 }
+
+.dark .publication-venue {
+  color: rgba(155, 255, 255, 0.75);
+}
+
 
 .article-frontpage {
   margin-bottom: 15px;
@@ -65,7 +71,8 @@ article .article-frontpage {
 }
 
 .article-frontpage a {
-  color: rgba(100, 0, 0, 0.75);
+  /*color: rgba(100, 0, 0, 0.75);*/
+  color: steelblue;
 }
 
 .dark .article-frontpage a {
@@ -86,3 +93,4 @@ article .article-frontpage {
 .dark .publication-type-separator {
   color: rgba(155, 255, 255, 0.75);
 }
+
