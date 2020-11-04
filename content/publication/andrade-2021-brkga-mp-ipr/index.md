@@ -1,6 +1,6 @@
 +++
 title = "The Multi-Parent Biased Random-Key Genetic Algorithm with Implicit Path-Relinking and its real-world applications"
-date = 2019-11-22
+date = 2021-02-16
 publishdate = 2019-11-22
 authors = ["Carlos E. Andrade", "Rodrigo F. Toso", "José F. Gonçalves", "Mauricio G.C. Resende"]
 publication_types = ["2"]

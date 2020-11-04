@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Senior Inventive Scientist"
+role = "Principal Inventive Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -104,7 +104,7 @@ interests = [
 #   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 +++
 
-<!-- Carlos Eduardo de Andrade is Senior Inventive Scientist at
+<!-- Carlos Eduardo de Andrade is Principal Inventive Scientist at
 [AT&T Labs Research](http://www.research.att.com).
 He is interested in the application of exact algorithms
 ([mixed integer based](https://en.wikipedia.org/wiki/Integer_programming))
@@ -122,15 +122,16 @@ used in
 [network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization),
 among others. -->
 
-Hi, my name is Carlos Eduardo de Andrade and I'm a senior Inventive Scientist
-at AT&T Labs Research. I'm interested in the application of exact algorithms
-(mixed integer based) and heuristics like genetic algorithms, variable
-neighborhood search, and others, to deal with real large-scale problems.
-Currently, I am working in network design and orchestration/operation
-(including Software-Defined Networks). Several problems emerge in this context
-such as networking planning (several Steiner-tree-like problems), physical and
-virtual resource location and deployment (facility-location-like problems) used
-in network function virtualization, among others.
+Hi, my name is Carlos Eduardo de Andrade and I'm a Principal Inventive
+Scientist at AT&T Labs Research. I'm interested in the application of exact
+algorithms (mixed integer based) and heuristics like genetic algorithms,
+variable neighborhood search, and others, to deal with real large-scale
+problems.  Currently, I am working in network design and
+orchestration/operation (including Software-Defined Networks). Several problems
+emerge in this context such as networking planning (several Steiner-tree-like
+problems), physical and virtual resource location and deployment
+(facility-location-like problems) used in network function virtualization,
+among others.
 
 Currently, I'm working on the following projects:
 
