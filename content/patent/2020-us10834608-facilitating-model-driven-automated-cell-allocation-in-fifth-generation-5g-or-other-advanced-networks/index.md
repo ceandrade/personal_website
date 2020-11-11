@@ -1,21 +1,22 @@
 +++
-title = "Model-driven Automated Cell PCI/RSI Allocation Optimization in 5G Wireless Network"
-date = 2019-04-08
+title = "Facilitating Model Driven Automated Cell Allocation In Fifth Generation (5G) Or Other Advanced Network"
+date = 2020-11-10
 
 office = "USPTO"
 #deposit_number = "2019-0118"
-deposit_number = "Pending"
-deposit_date = 2019-04-08
-# public_domain_date =
+deposit_number = "10,834,608"
+deposit_date = 2019-07-16
+grant_date = 2020-11-10
+# public_domain_date = 2020-11-10
 
 authors = [
-"Carlos E. Andrade",
-"Sarat Puthenpura",
-"Nemmara K. Shankaranarayanan",
-"Slawomir Stawiarski",
-"Yuning Yang",
 "Wei Yuan",
-"Wenjie Zhao"
+"Yuning Yang",
+"Carlos E. Andrade",
+"Nemmara K. Shankaranarayanan",
+"Sarat Puthenpura",
+"Wenjie Zhao",
+"Slawomir Stawiarski"
 ]
 
 # Publication type.
@@ -85,6 +86,8 @@ tags = ["Level location analytics", "Big data", "Wirelles technology",
 # url_video = ""
 # url_poster = ""
 # url_source = ""
+url_source = "http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=10834608"
+
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
