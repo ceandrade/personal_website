@@ -1,19 +1,19 @@
 +++
-title = "A scalable approach to conflict-free change deployment in 5G/LTE/cloud networks"
+title = "Conflict-free change deployment"
 date = 2019-02-15
 
 office = "USPTO"
 #deposit_number = "2018-08582"
-deposit_number = "Pending"
+deposit_number = "10,958,517"
 deposit_date = 2019-02-15
-# public_domain_date =
+grant_date = 2021-03-23
 
 authors = [
-"Carlos E. Andrade",
 "Ajay Mahimkar",
-"Robert Riding",
 "Rakesh K. Sinha",
-"Weiyi Zhang"
+"Carlos E. Andrade",
+"Weiyi Zhang",
+"Robert Riding"
 ]
 
 # Publication type.
@@ -33,13 +33,11 @@ publication_types = ["8"]
 #publication = "USPTO #2018-0858"
 # publication_short = ""
 
-# Abstract.
-abstract = """
-A new scalable approach to conflict-free deployment of changes across
-virtualized 5G/LTE networks. We model the conflict rules/constraints using
-policies and invent algorithms to effectively determine the optimized
-schedule for change deployment.
-"""
+# Abstract.  
+abstract = """A new scalable approach to conflict-free deployment
+of changes across networks. The conflict rules or constraints may be modeled
+using policies and algorithms to determine an optimized schedule for change
+deployment."""
 
 # Summary. An optional shortened abstract.
 # summary = ""
@@ -52,8 +50,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Level location analytics", "Big data", "Wirelles technology",
-        "Combinatorial optimization"]
+tags = ["Change Management", "Big data", "Scheduling", "Combinatorial optimization"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -79,7 +76,7 @@ tags = ["Level location analytics", "Big data", "Wirelles technology",
 # url_slides = ""
 # url_video = ""
 # url_poster = ""
-# url_source = ""
+url_source = "http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=10958517"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -95,3 +92,4 @@ tags = ["Level location analytics", "Big data", "Wirelles technology",
 #   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #   focal_point = ""
 +++
+
