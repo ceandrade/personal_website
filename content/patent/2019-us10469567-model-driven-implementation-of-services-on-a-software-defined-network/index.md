@@ -1,6 +1,6 @@
 +++
 title = "Model-Driven Implementation of Services on a Software-Defined Network"
-date = 2018-10-18
+date = 2019-11-05
 
 office = "USPTO"
 deposit_number = "10,469,567"

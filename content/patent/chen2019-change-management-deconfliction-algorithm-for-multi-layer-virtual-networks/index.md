@@ -1,6 +1,6 @@
 +++
 title = "Change Management Deconfliction Algorithm for Multi-layer Virtual Networks"
-date = 2020-12-31
+date = 2019-10-15
 
 office = "USPTO"
 # deposit_number = "2019-0118"

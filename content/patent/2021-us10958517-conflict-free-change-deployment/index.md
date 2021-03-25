@@ -1,12 +1,12 @@
 +++
 title = "Conflict-free change deployment"
-date = 2019-02-15
+date = 2021-03-23
 
 office = "USPTO"
 #deposit_number = "2018-08582"
 deposit_number = "10,958,517"
 deposit_date = 2019-02-15
-publication_date = 2020-08-20
+public_domain_date = 2020-08-20
 grant_date = 2021-03-23
 
 authors = [
@@ -35,10 +35,11 @@ publication_types = ["8"]
 # publication_short = ""
 
 # Abstract.  
-abstract = """A new scalable approach to conflict-free deployment
-of changes across networks. The conflict rules or constraints may be modeled
-using policies and algorithms to determine an optimized schedule for change
-deployment."""
+abstract = """
+A new scalable approach to conflict-free deployment of changes across networks.
+The conflict rules or constraints may be modeled using policies and algorithms
+to determine an optimized schedule for change deployment.
+"""
 
 # Summary. An optional shortened abstract.
 # summary = ""

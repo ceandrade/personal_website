@@ -1,6 +1,6 @@
 +++
 title = "Facilitating Software Downloads To Internet Of Things Devices Via A Constrained Network"
-date = 2018-09-06
+date = 2019-07-23
 
 office = "USPTO"
 deposit_number = "10,362,166"
