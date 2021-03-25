@@ -6,6 +6,7 @@ office = "USPTO"
 #deposit_number = "2018-08582"
 deposit_number = "10,958,517"
 deposit_date = 2019-02-15
+publication_date = 2020-08-20
 grant_date = 2021-03-23
 
 authors = [
