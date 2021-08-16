@@ -9,4 +9,5 @@ featured = false
 publication = "*Proceedings of 20th International IFIP Networking Conference*"
 tags = ["Change management", "Combinatorial optimization", "Scheduling problems"]
 url_pdf = "http://dl.ifip.org/db/conf/networking/networking2021/1570688607.pdf"
+doi = "10.23919/IFIPNetworking52078.2021.9472779"
 +++
