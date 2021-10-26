@@ -50,9 +50,11 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "cea@research.att.com"
-phone = "+1 (904) 407-2820"
-address = "5312 SW 6TH PL, OCALA, FL 34474, USA"
+email = "cea@research.att.com / ce.andrade@gmail.com"
+phone = ""
+address = ""
+#phone = "+1 (904) 407-2820"
+#address = "5312 SW 6TH PL, OCALA, FL 34474, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
