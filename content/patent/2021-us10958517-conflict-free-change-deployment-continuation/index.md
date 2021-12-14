@@ -1,25 +1,21 @@
 +++
-title = "Change Management Deconfliction Algorithm for Multi-layer Virtual Networks"
-date = 2019-10-15
+title = "Conflict-free change deployment - Continuation"
+date = 2021-08-12
 
 office = "USPTO"
-# deposit_number = "2019-0118"
-deposit_number = "Pending"
-deposit_date = 2019-10-15
-# public_domain_date =
+#deposit_number = "2018-08582"
+deposit_number = "US20210250232A1"
+deposit_date = 2021-01-25
+public_domain_date = 2020-08-20
+grant_date = 2021-03-23
 
 authors = [
-"Kun-Tsun Chen",
-"Linda Clayton",
+"Ajay Mahimkar",
+"Rakesh K. Sinha",
 "Carlos E. Andrade",
-"Gilbert Figueroa",
-"Qun Luo",
-"Prasanna Ramachandran",
-"Gur Rotkop",
-"Rakesh Sinha",
-"Stephen Wolyn"
+"Weiyi Zhang",
+"Robert Riding"
 ]
-
 
 # Publication type.
 # Legend:
@@ -35,24 +31,15 @@ authors = [
 publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-# publication = "USPTO #2019-0118"
+#publication = "USPTO #2018-0858"
 # publication_short = ""
 
-# Abstract.
+# Abstract.  
 abstract = """
-The de-confliction algorithm combines the end to end topology of a service
-with open change management tickets to allow an operations user to identify
-conflicting change management activities that could impact service to one or
-more customer edge nodes. Given an end-to-end service path with all virtual
-and physical assets, the connections between them, and the redundant service
-paths, the algorithm will show change conflicts that impact customer service
-and recommend time windows where a change can be done without service impact.
-The solution is unique in that it uses both the physical and virtual
-end-to-end service topology to find conflicts across the different network
-layers and organizations. This methodology will become more valuable in the
-future as the industry moves to multi-cloud environments where changes not
-only across a network’s assets, but also across different cloud environments
-will need to be considered.
+A new scalable approach to conflict-free deployment of changes across networks.
+The conflict rules or constraints may be modeled using policies and algorithms
+to determine an optimized schedule for change deployment.
+This is a continuation of patent #10,958,517.
 """
 
 # Summary. An optional shortened abstract.
@@ -66,8 +53,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Level location analytics", "Big data", "Wirelles technology",
-        "Combinatorial optimization"]
+tags = ["Change Management", "Big data", "Scheduling", "Combinatorial optimization"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -93,7 +79,8 @@ tags = ["Level location analytics", "Big data", "Wirelles technology",
 # url_slides = ""
 # url_video = ""
 # url_poster = ""
-# url_source = ""
+# url_source = "http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=10958517"
+url_source = "https://patentimages.storage.googleapis.com/5b/b8/e2/50b6bf35152fb3/US20210250232A1.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -109,3 +96,4 @@ tags = ["Level location analytics", "Big data", "Wirelles technology",
 #   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 #   focal_point = ""
 +++
+
