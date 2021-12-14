@@ -5,8 +5,8 @@ date = 2021-12-14
 office = "USPTO"
 #deposit_number = "2019-0118"
 deposit_number = "11,202,210"
-deposit_date = 2019-07-16
-grant_date = 2020-11-10
+deposit_date = 2021-01-21
+grant_date = 2021-12-14
 # public_domain_date = 2020-11-10
 
 authors = [

@@ -1,5 +1,5 @@
 +++
-title = "Facilitating-assignment-of-root-sequence-indexes-while-minimizing-network-changes"
+title = "Facilitating assignment of root sequence indexes while minimizing network changes"
 date = 2021-12-02
 
 office = "USPTO"
