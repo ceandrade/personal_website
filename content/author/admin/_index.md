@@ -122,6 +122,7 @@ used in
 [network function virtualization](https://en.wikipedia.org/wiki/Network_function_virtualization),
 among others. -->
 
+<!--
 Hi, my name is Carlos Eduardo de Andrade and I'm a Principal Inventive
 Scientist at AT&T Labs Research. I'm interested in the application of exact
 algorithms (mixed integer based) and heuristics like genetic algorithms,
@@ -132,8 +133,29 @@ emerge in this context such as networking planning (several Steiner-tree-like
 problems), physical and virtual resource location and deployment
 (facility-location-like problems) used in network function virtualization,
 among others.
+-->
 
-Currently, I'm working on the following projects:
+Carlos Eduardo de Andrade is a principal inventive scientist at the Network
+Analytics and Automation department at AT&T Labs Research. He is a specialist
+in prescriptive analytics and operations research, working with large-scale
+combinatorial optimization problems using model-driven and custom approaches.
+Scheduling changes on hundreds of thousands of nodes in a highly heterogeneous
+network and optimizing parameters for other hundreds of thousands of 4G and 5G
+equipment is part of his daily job. Toss other millions of Internet of Things
+devices and connected cars, and we have very challenging combinatorial
+optimization problems tackled by Carlos and his colleagues. In his hybrid
+position, Carlos delivers solutions for his company as much as scientific
+papers and open-source code for the community, regularly publishing in
+high-quality venues such as EJOR and SIGCOMM. He is the author of the
+BRKGA-MP-IPR, the best performant genetic algorithm for real-world applications
+to date. Before joining AT&T Labs, Carlos spent some time at the School of
+Industrial and Systems Engineering at Georgia Tech as a postdoc fellow and at
+the Federal Institute of Education, Science, and Technology Southern of Minas
+Gerais as a professor. Carlos has Master's and Ph.D. degrees in computer
+science from the Institute of Computing at the University of Campinas and a
+bachelor's degree in computer science from the Federal University of Lavras.
+
+Some current projects:
 
 <ul class='fa-ul'>
 <li><i class="fa-li fas fa-chevron-right" style="color: steelblue;"></i>
@@ -143,16 +165,16 @@ physical and virtual network functions (PNF and VNF), radio access networks
 has been implemented on the ONAP platform;
 </li>
 
-<li><i class="fa-li fas fa-chevron-right" style="color: steelblue;"></i> 
-ENDC (E-UTRAN New Radio Dual Connectivity) optimization, where we want to
-maximize the performance of hybrid 4G/5G networks, using machine learning for
-issue prediction, and configuration and parameter optimization; 
-</li>
-
 <li><i class="fa-li fas fa-chevron-right" style="color: steelblue;"></i>
 PCI/RSI/ANR management for 4G and 5G networks, focusing on large scale 
 densification of radio access networks (RANs). Several features have been
 implemented in ONAP.
+</li>
+
+<li><i class="fa-li fas fa-chevron-right" style="color: steelblue;"></i> 
+ENDC (E-UTRAN New Radio Dual Connectivity) optimization, where we want to
+maximize the performance of hybrid 4G/5G networks, using machine learning for
+issue prediction, and configuration and parameter optimization; 
 </li>
 </ul>
 
