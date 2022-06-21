@@ -1,12 +1,14 @@
 +++
 title = "Apparatuses and methods for identifying infrastructure through machine learning"
-date = 2019-10-15
+date = 2022-06-21
 
 office = "USPTO"
 #deposit_number = "2019-0118"
-deposit_number = "Pending"
+deposit_number = "11,367,277"
 deposit_date = 2019-10-15
 # public_domain_date =
+public_domain_date = 2021-06-21
+grant_date = 2022-06-21
 
 authors = [
 "Carlos E. Andrade",
@@ -86,6 +88,7 @@ tags = ["Level location analytics", "Big data", "Wirelles technology",
 # url_video = ""
 # url_poster = ""
 # url_source = ""
+url_source = "http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=11367277"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
