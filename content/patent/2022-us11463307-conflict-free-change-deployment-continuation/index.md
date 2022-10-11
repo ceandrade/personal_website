@@ -79,8 +79,7 @@ tags = ["Change Management", "Big data", "Scheduling", "Combinatorial optimizati
 # url_slides = ""
 # url_video = ""
 # url_poster = ""
-# url_source = "https://ppubs.uspto.gov/pubwebapp/external.html?q=(11463307).pn."
-url_source = "https://patentimages.storage.googleapis.com/5b/b8/e2/50b6bf35152fb3/US20210250232A1.pdf"
+url_source = "https://ppubs.uspto.gov/pubwebapp/external.html?q=(11463307).pn."
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
