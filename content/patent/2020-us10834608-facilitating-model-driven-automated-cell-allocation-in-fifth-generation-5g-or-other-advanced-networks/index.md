@@ -86,7 +86,7 @@ tags = ["Level location analytics", "Big data", "Wirelles technology",
 # url_video = ""
 # url_poster = ""
 # url_source = ""
-url_source = "http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=10834608"
+url_source = "https://ppubs.uspto.gov/pubwebapp/external.html?q=(10834608).pn."
 
 
 # Custom links (optional).

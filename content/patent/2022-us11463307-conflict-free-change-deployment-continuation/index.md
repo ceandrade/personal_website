@@ -1,13 +1,13 @@
 +++
 title = "Conflict-free change deployment - Continuation"
-date = 2021-08-12
+date = 2022-10-04
 
 office = "USPTO"
 #deposit_number = "2018-08582"
-deposit_number = "US20210250232A1"
+deposit_number = "11,463,307"
 deposit_date = 2021-01-25
 public_domain_date = 2020-08-20
-grant_date = 2021-03-23
+grant_date = 2022-10-04
 
 authors = [
 "Ajay Mahimkar",
@@ -79,7 +79,7 @@ tags = ["Change Management", "Big data", "Scheduling", "Combinatorial optimizati
 # url_slides = ""
 # url_video = ""
 # url_poster = ""
-# url_source = "http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=10958517"
+# url_source = "https://ppubs.uspto.gov/pubwebapp/external.html?q=(11463307).pn."
 url_source = "https://patentimages.storage.googleapis.com/5b/b8/e2/50b6bf35152fb3/US20210250232A1.pdf"
 
 # Custom links (optional).

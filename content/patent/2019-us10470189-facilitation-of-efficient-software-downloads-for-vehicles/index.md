@@ -88,7 +88,7 @@ tags = ["Level location analytics", "Big data", "Wirelles technology",
 # url_video = ""
 # url_poster = ""
 # url_source = "https://patents.google.com/patent/US20170374668A1"
-url_source = "http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=10470189"
+url_source = "https://ppubs.uspto.gov/pubwebapp/external.html?q=(10470189).pn."
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

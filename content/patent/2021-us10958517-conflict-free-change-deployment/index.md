@@ -78,7 +78,7 @@ tags = ["Change Management", "Big data", "Scheduling", "Combinatorial optimizati
 # url_slides = ""
 # url_video = ""
 # url_poster = ""
-url_source = "http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=10958517"
+url_source = "https://ppubs.uspto.gov/pubwebapp/external.html?q=(10958517).pn."
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
