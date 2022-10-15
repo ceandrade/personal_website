@@ -8,7 +8,7 @@ abstract = "In mobile wireless networks, the Root Sequence Index (RSI) is used t
 featured = false
 publication = "<a href=\"https://www.journals.elsevier.com/applied-soft-computing\">*Applied Soft Computing*</a>"
 tags = ["Root Sequence Index", "Mathematical Models", "Biased Random-Key Genetic Algorithm"]
-doi = ""
+doi = "10.1016/j.asoc.2022.109634"
 scimagojr_index = "18136"
 url_dataset = "https://github.com/ceandrade/rsi_allocation_problem_instances"
 +++
