@@ -8,5 +8,5 @@ abstract = "This paper introduces a novel problem of facility location, called t
 featured = false
 publication = "*Proceedings of the 14th Metaheuristics International Conference*"
 tags = ["Facility location", "Biased Random-Key Genetic Algorithm", "Metaheuristics"]
-url_pdf = "files/publications/onde2022_the_pnext_center_problem_with_capacity_and_coverage_radius_constraints_model_and_heuristics.pdf"
+url_pdf = "files/publications/londe2022_the_pnext_center_problem_with_capacity_and_coverage_radius_constraints_model_and_heuristics.pdf"
 +++

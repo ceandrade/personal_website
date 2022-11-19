@@ -20,6 +20,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "54th Brazilian Symposium on Operations Research (SBPO)"
+  organization_url = "https://sbpo2022.galoa.com.br/resultado-da-premiacao"
+  title = "Runner Up on Master's Dissertation Context"
+  #url = ""
+  #certificate_url = "https://www.coursera.org"
+  date_start = "2021-11-16"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Institute of Computing - University of Campinas"
   organization_url = "http://www.ic.unicamp.br"
   title = "Successful graduates in Computer Science from the University of Campinas, CAPES 2017-2020"
