@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   title = "Runner Up on Master's Dissertation Context"
   #url = ""
   #certificate_url = "https://www.coursera.org"
-  date_start = "2021-11-16"
+  date_start = "2022-11-16"
   date_end = ""
   description = ""
 
