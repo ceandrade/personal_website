@@ -9,8 +9,8 @@ public_domain_date = 2020-08-20
 grant_date = 2024-01-16
 
 authors = [
-"Carlos E. Andrade",
 "Ajay Mahimkar",
+"Carlos E. Andrade",
 "Rakesh K. Sinha"
 ]
 
