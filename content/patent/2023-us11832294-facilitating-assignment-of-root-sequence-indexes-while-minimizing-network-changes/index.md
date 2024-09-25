@@ -1,12 +1,13 @@
 +++
 title = "Facilitating assignment of root sequence indexes while minimizing network changes"
-date = 2021-12-02
+date = 2023-11-28
 
 office = "USPTO"
 #deposit_number = "2021-0395"
-deposit_number = "Pending"
+deposit_number = "11,832,294"
 deposit_date = 2021-12-02
 # public_domain_date =
+grant_date = 2023-11-28
 
 authors = [
 "Carlos E. Andrade",
@@ -87,6 +88,7 @@ tags = ["Physical Cell Identity", "Big data", "Wirelles technology",
 # url_video = ""
 # url_poster = ""
 # url_source = ""
+url_source = "https://ppubs.uspto.gov/pubwebapp/external.html?q=(11832294).pn."
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
