@@ -159,10 +159,9 @@ Some current projects:
 
 <ul class='fa-ul'>
 <li><i class="fa-li fas fa-chevron-right" style="color: steelblue;"></i>
-Change management deconfliction and scheduling for hybrid systems including
-physical and virtual network functions (PNF and VNF), radio access networks
-(RAN), and software-defined wide area networks (SD-WAN). Most of this stuff
-has been implemented on the ONAP platform;
+Network grooming, consolidation, and equipment decomission on-premises 
+datacentes and carrier hotels, focusing in space and energy savings,
+and CAPEX and OPEX avoidance.
 </li>
 
 <li><i class="fa-li fas fa-chevron-right" style="color: steelblue;"></i>
@@ -171,16 +170,24 @@ densification of radio access networks (RANs). Several features have been
 implemented in ONAP.
 </li>
 
-<li><i class="fa-li fas fa-chevron-right" style="color: steelblue;"></i> 
-ENDC (E-UTRAN New Radio Dual Connectivity) optimization, where we want to
-maximize the performance of hybrid 4G/5G networks, using machine learning for
-issue prediction, and configuration and parameter optimization; 
-</li>
 </ul>
 
 Some past projects include:
 
 <ul class='fa-ul'>
+<li><i class="fa-li fas fa-chevron-right" style="color: steelblue;"></i>
+Change management deconfliction and scheduling for hybrid systems including
+physical and virtual network functions (PNF and VNF), radio access networks
+(RAN), and software-defined wide area networks (SD-WAN). Most of this stuff
+has been implemented on the ONAP platform;
+</li>
+
+<li><i class="fa-li fas fa-chevron-right" style="color: steelblue;"></i> 
+ENDC (E-UTRAN New Radio Dual Connectivity) optimization, where we want to
+maximize the performance of hybrid 4G/5G networks, using machine learning for
+issue prediction, and configuration and parameter optimization; 
+</li>
+
 <li><i class="fa-li fas fa-chevron-left" style="color: steelblue;"></i>
 The retirement of POTS (plain old telephone system), focusing on low costs
 for customers;
