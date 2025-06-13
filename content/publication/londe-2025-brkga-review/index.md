@@ -1,6 +1,6 @@
 +++
 title = "Biased random-key genetic algorithms: A review"
-date = 2024-03-26
+date = 2025-02-16
 publishdate = 2025-02-16
 authors = ["Mariana A. Londe", "Luciana S. Pessoa", "Carlos E. Andrade", "Mauricio G.C. Resende"]
 publication_types = ["2"]
