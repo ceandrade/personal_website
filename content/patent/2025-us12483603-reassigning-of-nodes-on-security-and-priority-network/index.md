@@ -1,12 +1,13 @@
 +++
 title = "(Re)Assigning Of Nodes On Security And Priority Network"
-date = 2024-02-12
+date = 2025-11-25
 
 office = "USPTO"
-#deposit_number = "2023-0716"
-deposit_number = "Pending"
+deposit_number = "12,483,603"
 deposit_date = 2024-02-12
-# public_domain_date =
+# public_domain_date = 2018-10-18
+grant_date = 2025-11-25
+
 
 authors = [
 "Carlos E. Andrade",
